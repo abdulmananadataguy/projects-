@@ -1,0 +1,21 @@
+python -m notebook
+
+pip install notebook [ to install jupyter ] 
+
+jupter --version 
+
+
+
+LFX FELLOW SHIP 
+LFX MENTORSHIP 
+
+CNCF 
+GSOC
+OUT REACHY 
+
+
+Lucid 
+sketchit
+excalidraw.com 
+one note ms word 
+microsft oujournal 
