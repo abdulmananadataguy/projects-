@@ -7,7 +7,7 @@ jupter --version
 
 
 LFX FELLOW SHIP 
-LFX MENTORSHIP 
+LFX MENTORSHIP te super easy format to amke t owor  
 
 CNCF 
 GSOC
