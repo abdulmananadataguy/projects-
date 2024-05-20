@@ -1,4 +1,4 @@
-python -m notebook
+python -m notebook ok 
 
 pip install notebook [ to install jupyter ] 
 
